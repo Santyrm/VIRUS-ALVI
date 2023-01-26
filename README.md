@@ -24,7 +24,7 @@ $ apt upgrade -y
 
 $ pkg install git -y
 
-$ git clone 
+$ git clone https://github.com/Santyrm/VIRUS-ALVI
 
 $ cd VirusAlvi
 
