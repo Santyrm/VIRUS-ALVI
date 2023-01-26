@@ -8,8 +8,6 @@
 
 <h4>Tool by <strong>The Alvi Toxiz</strong></h4>
 
-![Screenshot_20201107-163215~2_compress68](https://user-images.githubusercontent.com/69100349/98444803-c3659900-2139-11eb-892f-86a352437f56.jpg)
-
 *For more details see my youtube channel 
 
 *Click :- [The Alvi Toxiz](https://www.youtube.com/@ALVI_TOXIZ)
@@ -39,21 +37,7 @@ copy and past on whatsapp and sent if Text
 
 *Enjoy*
 
-<h4>Screenshots </h4>
 
-![Screenshot_20210401-111946](https://user-images.githubusercontent.com/69100349/113250775-c591e500-92de-11eb-8442-ced8319793f4.png)
-
-
-
-![Screenshot_20210401-111957](https://user-images.githubusercontent.com/69100349/113250952-1570ac00-92df-11eb-846f-7e583aaa44a1.png)
-
-![Capture 2020-11-07 20 29 57](https://user-images.githubusercontent.com/69100349/98444702-2571ce80-2139-11eb-82e3-50daac2c9e62.jpg)
-
-![Capture 2020-11-07 20 34 39](https://user-images.githubusercontent.com/69100349/98444733-4df9c880-2139-11eb-8c83-a928e5c2d0b8.jpg)
-
-![Capture 2020-11-07 20 35 37](https://user-images.githubusercontent.com/69100349/98444754-741f6880-2139-11eb-9a1e-8bcba51a76f8.jpg)
-
-<h3>2 options at First </h3>
 
 *1) Virus Applications (new 2023 ) 
 
